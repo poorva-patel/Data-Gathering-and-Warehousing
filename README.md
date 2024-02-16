@@ -1,5 +1,5 @@
 # Data Gathering and Warehousing
-Environmental Impact if Food Production
+Environmental Impact of Food Production
 
 https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production?resource=download
 
